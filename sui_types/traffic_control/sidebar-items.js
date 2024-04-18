@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PolicyType","ServiceResponse"],"fn":["default_channel_capacity","default_connection_blocklist_ttl_sec"],"struct":["PolicyConfig","RemoteFirewallConfig"]};
