@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["framework_for_protocol","latest_framework"],"struct":["FrameworkPackage","FrameworkVersion"]};
